@@ -2,9 +2,11 @@
 
 An archive of 32 photographs taken in Be'er Ya'akov, Israel, on **9 October 2026**, with the observation details, image validation results, and a provisional identification developed by visually reviewing the complete set.
 
-**Best current identification: probable *Pellenes flavipalpis* (Lucas, 1853), apparently an adult male, in the jumping-spider family Salticidae.** The family identification is confident; the genus and species are photographic interpretations, with the species remaining provisional. This archive does not record a specialist-confirmed or specimen-based determination.
+**Revised identification: probable *Pellenes flavipalpis* (Lucas, 1853), apparently an adult male, in the jumping-spider family Salticidae.** A closer comparison with published photographs supports retaining this candidate, with the exact species remaining provisional. This archive does not record a specialist-confirmed or specimen-based determination.
 
-> Probable *Pellenes flavipalpis*, adult male — Be'er Ya'akov, Israel — 9 October 2026, approximately 13:26–13:31 local time (UTC+03:00).
+> *Pellenes* cf. *flavipalpis*, probable adult male — Be'er Ya'akov, Israel — 9 October 2026, approximately 13:26–13:31 local time (UTC+03:00).
+
+Here, **cf.** marks a tentative comparison with *P. flavipalpis*, rather than a confirmed species identification.
 
 [![Dorsal view showing the spider's white head patches and abdominal markings](20261009_132919.jpg)](20261009_132919.jpg)
 
@@ -37,11 +39,22 @@ The features visible across the photographs are:
 
 The closest published comparison found during the review was the male *Pellenes flavipalpis* in **Figure 15g–h, printed page 80, of Schäfer (2020)**. The same study discusses the frontal white head patch as a feature distinguishing *P. flavipalpis* from the similar *P. geniculatus* on page 83. The resemblance to those reference photographs is the basis of this identification; the paper does not identify the individual in this repository. [Schäfer's study and comparison plates](https://arages.de/user_upload/psb_publicationmanagement/pdf/AM59_72_87.pdf)
 
+**Reassessment on 9 October 2026:** the white patch on top of the head, the two separate pale patches behind it, and the broad, tapered white marking on the rear of the abdomen remain the strongest visual evidence for *P. flavipalpis*. The repeated head pattern in the dorsal views, especially [20261009_132919.jpg](20261009_132919.jpg) and [20261009_133024.jpg](20261009_133024.jpg), supports interpreting it as a body marking rather than a highlight in one exposure. The frontal views support an adult male interpretation through the apparently swollen pedipalp tips. Reviewing the same photographs again supports retaining the candidate; it is not independent confirmation.
+
+There is also a taxonomic limitation beyond image resolution. Schäfer (2020, page 83) explains that *P. flavipalpis* and *P. geniculatus* were separated using external appearance, particularly the frontal white head patch, and that their genital morphology does not reliably distinguish them. The paper calls for molecular or behavioral work to clarify whether they represent separate species or variation within one species. The head patch favors *P. flavipalpis* under that published distinction, but it would be misleading to suggest that a sharper photograph of the genital structures alone would necessarily settle this particular comparison. [Schäfer (2020), taxonomic discussion](https://doi.org/10.30963/aramit5910)
+
 The World Spider Catalog accepts *Pellenes flavipalpis* and lists its distribution as Greece, including Crete, Turkey, Cyprus, Lebanon, and **Israel**. The location therefore supports the proposed identification, but does not uniquely determine the species. Older literature may use *Pellenes simoni*, which the catalog treats as a synonym of *P. flavipalpis*. [World Spider Catalog species account](https://wsc.nmbe.ch/spec-data/38263)
 
 The published male body length is approximately **3.0–3.5 mm, excluding the legs**. This is a reference measurement, not a measurement of the photographed spider. A substantially larger measured body would be a reason to revisit the identification. [Spiders of Europe species description](https://araneae.nmbe.ch/data/2078/Pellenes_flavipalpis?lang=en)
 
-Confidence is highest for Salticidae, lower for the genus and male/adult interpretation, and lower again for the exact species. The photographs document useful markings, but fine diagnostic anatomy is not sufficiently resolved for a definitive species determination. The observation date and time are retained as context; no species-specific seasonal conclusion was established.
+| Identification level | Current assessment |
+| --- | --- |
+| Family: Salticidae (jumping spiders) | High confidence from the visible body form and pattern across the photographs. |
+| Genus: *Pellenes* | Well supported by the comparison with published reference photographs, but not specialist-confirmed. |
+| Sex and maturity | Probable adult male; the pedipalp tips appear swollen, but their fine structure is not resolved. |
+| Species: *P. flavipalpis* | Best photographic match, with moderate confidence; retain a provisional label. |
+
+The exact-species limit reflects both the available photographic detail and the published difficulty separating similar taxa. The observation date and time are retained as context; no species-specific seasonal conclusion was established.
 
 ## Photographs most useful for review
 
